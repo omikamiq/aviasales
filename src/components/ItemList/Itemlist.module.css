@@ -1,0 +1,6 @@
+.item_list {
+  display: flex;
+  margin-left: 20px;
+  gap: 20px;
+  flex-direction: column;
+}
